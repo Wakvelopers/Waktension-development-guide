@@ -30,5 +30,5 @@
 <img src="https://discuss.dev.twitch.tv/uploads/default/original/2X/9/956b4b268b99c92bcf772834bf0c55b8e62bd431.jpeg"> </img>
 <img src="https://discuss.dev.twitch.tv/uploads/default/original/2X/e/ee8ebae551b70a239ba85ae941c018a76bda7799.png"> </img>
 컴포넌트 확장프로그램의 예시<br>
-접근성이 PC•모바일 모두 좋음<br>
+접근성이 PC좋음<br>
 사이즈 조절 가능
